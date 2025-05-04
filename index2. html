@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Deux Paragraphes</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            line-height: 1.6;
+        }
+        p {
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Exemple avec deux paragraphes</h1>
+    
+    <p>Voici le premier paragraphe. Ce texte est écrit dans un élément paragraphe HTML qui est défini par la balise &lt;p&gt;. Les paragraphes sont des éléments de bloc qui créent automatiquement un espace avant et après leur contenu.</p>
+    
+    <p>Et voici le deuxième paragraphe. L'utilisation de paragraphes distincts permet de structurer votre contenu de manière claire et lisible, ce qui améliore l'expérience utilisateur et facilite la lecture du texte sur les pages web.</p>
+</body>
+</html>
